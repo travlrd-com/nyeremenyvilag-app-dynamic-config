@@ -1,3 +1,5 @@
 {
-  "latestBuild": "3"
+  "builds": [
+    "3"
+  ]
 }
